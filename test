@@ -1,3 +1,11 @@
-azure web testpage
+azure web testpage load balancer
 
 http://40.80.233.62/index.php
+
+aws web testpage load balancer
+
+user07-frontlbnew-202341144.ap-northeast-1.elb.amazonaws.com
+
+traffic manager test
+
+http://user07-tm-final.trafficmanager.net
