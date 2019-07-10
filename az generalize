@@ -1,0 +1,2 @@
+az vm deallocate --resource-group user07-rg-final --name user07-vm-final
+az vm generalize --resource-group user07-rg-final --name user07-vm-final
